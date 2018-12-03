@@ -1,5 +1,5 @@
 # fareharbor-events-for-email
-Grab all events on the Green Valley Range calendar feed and display it as a newsletter template ready for Mailchimp!
+Grab all events on Green Valley Range's Farharbor calendar feed and display it as a newsletter template ready for Mailchimp!
 
 This is 1/4th of a suite of apps I built to reduce the paper shuffling that used to consume too many days a month.
 
